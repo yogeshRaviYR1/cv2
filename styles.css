@@ -32,8 +32,13 @@ a {
 body {
   margin: 0;
   text-align: center;
+  color: #40514E;
+  line-height: 2;
 }
 
+a:hover{
+  color: #EAF6F6;
+}
 h1 {
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
@@ -42,7 +47,9 @@ h1 {
   line-height: 2;
 }
 
-.middle-container {}
+.middle-container {
+
+}
 
 .bottom-container {
   background-color: #66BFBF;
@@ -133,11 +140,15 @@ hr {
   margin-bottom: 0;
   margin-right: 0;
   color: #EAF6F6;
+  font-size: 0.75rem;
 }
 .footer-link{
   display: inline-block;
   margin-top: 50px;
   margin-left: 40px;
   color: #11999E;
-  fon
+}
+.contact-message{
+  width: 30%;
+  margin: 40px auto 60px;
 }
