@@ -1,0 +1,143 @@
+.top-container {
+  background-color: #ebfffb;
+  height: 750px;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  font-family: 'Poppins', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Poppins', serif;
+  font-size: 1rem;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Poppins', serif;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 500px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 850px;
+  top: 50px;
+}
+
+.profile img {
+  border-radius: 50%;
+}
+
+.skill-row img {
+  float: left;
+  width: 25%;
+  border-radius: 50%;
+  padding: 30px 30px 30px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2rem;
+}
+
+#badminton-img {
+  border-radius: 0;
+  float: right;
+}
+
+hr {
+  border-style: dotted;
+  width: 3%;
+  height: 1px;
+  border-width: 5px 0 0 0;
+  color: #EAF6F6;
+}
+
+.hr {
+  clear: right;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+.about-me{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+
+
+
+.btn {
+	background-color:#11999e;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-bottom: 50px;
+}
+.btn:hover {
+	background-color:#0a6366;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-para{
+  margin-bottom: 0;
+  margin-right: 0;
+  color: #EAF6F6;
+}
+.footer-link{
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 40px;
+  color: #11999E;
+  fon
+}
